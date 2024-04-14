@@ -34,8 +34,4 @@ In this project, we will orchestrate our Data Pipeline workflow using an open-so
 
 
 
-## CAPSTONE PROJECT
-Udacity provides their own crafted Capstone project with dataset that include data on immigration to the United States, and supplementary datasets that include data on airport codes, U.S. city demographics, and temperature data.
-  
-I worked on my own open-ended project. <br />
-Here is the link - [goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline)
+
